@@ -1,0 +1,43 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    line-height: 61px;
+}
+
+.wrapper {
+    width: 1208px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightgray;
+}
+
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 180%;
+}
+
+h3 {
+    font-size: 160%;
+}
+
+nav {
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 0 10px;
+}
